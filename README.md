@@ -3,7 +3,6 @@
 - 🔭 Hoje trabalho com Front-End
 - 🌱 Experiência em JavaScript e TypeScript
 - 👯 Experiência em Angular e estudando React
-- 😄 Pronouns: ele/dele
 
  <div style="display: inline_block"><br>
   <img align="center" alt="Yuri-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
